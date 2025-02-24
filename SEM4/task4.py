@@ -17,4 +17,3 @@ def is_prime(num):
 
 
 print(is_prime(int(input("Введите число от 0 до 1000: "))))
-    
